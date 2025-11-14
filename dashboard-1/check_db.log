@@ -1,0 +1,93 @@
+=== Verificação de Integridade do Banco de Dados ===
+Data/Hora: 2025-10-27 11:57:28
+Banco de Dados: DBV Capital_Objetivos.db
+
+=== VERIFICAÇÃO DE INTEGRIDADE ===
+✓ Integridade do banco de dados: OK
+
+=== TABELAS ENCONTRADAS ===
+Total de tabelas: 11
+
+
+--- TABELA: objetivos ---
+Total de registros: 0
+
+Estrutura:
+
+Erro ao obter estrutura: name 'colinas' is not defined
+
+--- TABELA: sqlite_sequence ---
+Total de registros: 0
+
+Estrutura:
+
+Erro ao obter estrutura: name 'colinas' is not defined
+
+--- TABELA: dados ---
+Total de registros: 730
+
+Estrutura:
+
+Erro ao obter estrutura: name 'colinas' is not defined
+
+--- TABELA: objetivos_pj1 ---
+Total de registros: 1,095
+
+Estrutura:
+
+Erro ao obter estrutura: name 'colinas' is not defined
+
+--- TABELA: saude ---
+Total de registros: 1,095
+
+Estrutura:
+
+Erro ao obter estrutura: name 'colinas' is not defined
+
+--- TABELA: consorcio ---
+Total de registros: 1,095
+
+Estrutura:
+
+Erro ao obter estrutura: name 'colinas' is not defined
+
+--- TABELA: vida ---
+Total de registros: 1,095
+
+Estrutura:
+
+Erro ao obter estrutura: name 'colinas' is not defined
+
+--- TABELA: autore ---
+Total de registros: 1,095
+
+Estrutura:
+
+Erro ao obter estrutura: name 'colinas' is not defined
+
+--- TABELA: financiamento ---
+Total de registros: 1,095
+
+Estrutura:
+
+Erro ao obter estrutura: name 'colinas' is not defined
+
+--- TABELA: credito ---
+Total de registros: 1,095
+
+Estrutura:
+
+Erro ao obter estrutura: name 'colinas' is not defined
+
+--- TABELA: cambio ---
+Total de registros: 1,095
+
+Estrutura:
+
+Erro ao obter estrutura: name 'colinas' is not defined
+
+=== ÍNDICES ===
+Total de índices: 1
+- idx_objetivos_data (tabela: objetivos)
+
+=== VERIFICAÇÃO CONCLUÍDA ===
