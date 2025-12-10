@@ -2646,8 +2646,12 @@ with col_upper_left:
             )
         )
         
-        # Exibir gráfico ocupando 2/3 da tela
+        # Adicionar card personalizado ao redor do gráfico
+        st.markdown("<div class='dashboard-card tv-chart-card'>", unsafe_allow_html=True)
+        # Exibir gráfico dentro do card
         st.plotly_chart(fig_growth_auc, use_container_width=True)
+        # Fechar a div do card
+        st.markdown("</div>", unsafe_allow_html=True)
     else:
         st.warning("Dados insuficientes para exibir o gráfico de Crescimento AUC e Clientes Ativos.")
 
